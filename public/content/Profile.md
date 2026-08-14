@@ -1,18 +1,25 @@
 ## Site Name
-- Paluk's Portfolio
+- Paluk Gupta
 
 ## Header
-- Hi, my name is Paluk. 
-- Tech | Data | Creativity.
-- From aerospace blueprints to data-driven insights, I'm a boundary-pushing engineer ignited by creativity. Crafting new horizons and defying limits, I embrace the art of relentless innovation.
+- Hi, I'm Paluk.
+- Software Engineering | AI Infrastructure | Applied ML.
+- I build production software, AI-enabled platforms, and applied machine-learning systems across cloud infrastructure, computer vision, data, and robotics.
 
 ## About
-Hey there! I'm Paluk Gupta, a final-year Aerospace Engineering student at Nanyang Technological University with a passion for exploring the skies and beyond. Beyond rockets and rovers, I've ventured into automobile engineering and electrical systems, developing satellite telemetry interfaces and even designing electric cars, showcasing my knack for merging engineering with electronics. On top of that, I'm driven by data—crafting predictive models and cross-platform applications that decode human emotions, leveraging my data science expertise to engineer with intelligence. With a multi-disciplinary spirit and a hunger for innovation, I'm always eager to roll up my sleeves and create. I'm drawn to the excitement of collaborating with forward-thinking teams, crafting solutions that unite technology, data, and engineering. Let's team up and shape the future together!
+I'm Paluk Gupta, a software engineer in Singapore working on AI infrastructure and platforms at Dell Technologies. My work spans Python and Go microservices, REST APIs, Kubernetes-based distributed systems, platform automation, and LLM-powered engineering workflows.
+
+My background sits at the intersection of software, machine learning, and physical systems. Before Dell, I built data and GenAI workflows at EY Singapore, developed computer-vision terrain perception for lower-limb exoskeletons at RRIS, worked on satellite propulsion telemetry at Aliena, railway analytics at Thales, and satellite pass-prediction software at Transcelestial.
+
+I graduated from Nanyang Technological University with a B.Eng. in Aerospace Engineering, where I increasingly focused on intelligent and autonomous systems. I enjoy building systems that go beyond a model or prototype alone: reliable data pipelines, usable software interfaces, deployment infrastructure, and the engineering needed to make ML useful in the real world.
+
+I'm particularly interested in AI engineering, software infrastructure, agentic systems, computer vision, robotics, and data-intensive products.
 
 ## Contact
 - LinkedIn: https://linkedin.com/in/paluk-gupta
 - GitHub: https://github.com/paluuuk
-- Email: paluk001@e.ntu.edu.sg
+- Portfolio: https://paluk-portfolio.netlify.app/
+- Email: paluk.gupta@outlook.com
 
 ## Logo
 - PALUK
