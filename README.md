@@ -1,24 +1,31 @@
-![hero](hero.png)
+![Portfolio preview](hero.png)
 
 # Personal Portfolio
 
-This portfolio is built using React.js and Chakra UI.
+Personal portfolio website built with **React** and **Chakra UI** to showcase my software engineering, AI/ML, data, and aerospace projects.
 
-Website link: https://paluk-gupta-portfolio.netlify.app/
+**Live site:** https://paluk-portfolio.netlify.app/
 
-To test, you can use the following commands:
+## Tech Stack
 
-```
-# Install dependencies
+- React
+- Chakra UI
+- JavaScript
+- Netlify
+
+## Run Locally
+
+```bash
 yarn install
-
-# Start the development server
 yarn start
+```
 
-# Build the static files
+The development server runs at `http://localhost:3000`.
+
+## Production Build
+
+```bash
 yarn build
 ```
 
-After running `yarn start`, your website should be available at `http://localhost:3000`.
-
-
+The generated static site is deployed to Netlify.
